@@ -1,0 +1,7 @@
+C:\Users\hrist\source\repos\AnyChanger\AnyChanger\bin\Release\AnyChanger.exe.config
+C:\Users\hrist\source\repos\AnyChanger\AnyChanger\bin\Release\AnyChanger.exe
+C:\Users\hrist\source\repos\AnyChanger\AnyChanger\bin\Release\AnyChanger.pdb
+C:\Users\hrist\source\repos\AnyChanger\AnyChanger\obj\Release\AnyChanger.csprojAssemblyReference.cache
+C:\Users\hrist\source\repos\AnyChanger\AnyChanger\obj\Release\AnyChanger.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\AnyChanger\AnyChanger\obj\Release\AnyChanger.exe
+C:\Users\hrist\source\repos\AnyChanger\AnyChanger\obj\Release\AnyChanger.pdb
